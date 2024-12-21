@@ -1,0 +1,16 @@
+Query 2 Result:
+ Table of Yearly U.S. GDP by 
+Industry (in millions of dollars)
+Year 2010 2011 2012 2013 2014 2015
+All Industries 26093515 27535971 28663246 29601191 30895407 31397023
+Manufacturing 4992521 5581942 5841608 5953299 6047477 5829554
+Finance,
+Insurance, Real 
+Estate, Rental, 
+Leasing4522451 4618678 4797313 5031881 5339678 5597018
+Arts, 
+Entertainment, 
+Recreation, 
+Accommodation,
+and Food Service964032 1015238 1076249 1120496 1189646 1283813
+Other 15614511 16320113 16948076 17495515 18318606 18686638Source: U.S. Bureau of Labor Statistics
